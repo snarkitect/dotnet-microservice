@@ -21,7 +21,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-##[Oo]ut/
+[Oo]ut/
 
 # Visual Studio cache/options directory
 .vs/
